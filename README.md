@@ -13,10 +13,15 @@ Follow these instructions to build, run, and start the project.
 1. Clone this repository to your local machine:
 git clone <repository-url>
 
-2. Navigate to the project directory:
-cd indian-agriculture-analytics
 
-3. Install dependencies:
+
+2. create indian-agriculture-analytics and make source folder
+   md indian-agriculture-analytics
+   
+4. Navigate to the project directory and pull all required files for source folder.
+   
+
+6. Install dependencies:
 npm install 
 or 
 npm install react-scripts --save
